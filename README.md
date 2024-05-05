@@ -1,7 +1,7 @@
 ## About Me
 I am 15 years old, but just because I am 15 years old does not mean that I do not know how to program, I have been in contact with programming since I was 10 years old. And with this I have always thought that the only limits there are are the ones you set for yourself.
 >.[!IMPORTANT]
-> # Why I do program?
+> Why I do program?
 <!--
 **KraunDew/KraunDew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
