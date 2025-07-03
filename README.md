@@ -2,6 +2,12 @@
 Desde el 2019 me dedique a aprender programación de manera autodidacta. Actualmente estudio Técnico de Programación Informática en el Colegio Puente Maipo.
 Además me interesa el desarrollo web y móvil, UI/UX y los desafíos de logica. He practicado con Figma, HackerRank y diversas plataformas online.
 
+<p align="left">
+<a href="https://www.linkedin.com/in/kraundew/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:kraundew@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@kraundew"  /></a>
+  </p>
+<br>
+
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -20,5 +26,10 @@ Además me interesa el desarrollo web y móvil, UI/UX y los desafíos de logica.
   </td>
 </tr>
 </table>
-
-[Linkedin](www.linkedin.com/in/kraundew)
+<!--- trophy (start) -->
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=kraundew&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
