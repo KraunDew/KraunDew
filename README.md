@@ -26,6 +26,7 @@ Además me interesa el desarrollo web y móvil, UI/UX y los desafíos de logica.
   </td>
 </tr>
 </table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraundew&layout=compact&theme=dark&bg_color=0A0A0A" alt="KraunDew Top Languages"/>
 <!--- trophy (start) -->
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
