@@ -1,8 +1,5 @@
-## About Me
-I am 15 years old. I speack 2 languajes Spanish and English I'm Chilean, but just because I am 15 years old does not mean that I do not know how to program, I have been in contact with programming since I was 10 years old. And with this I have always thought that the only limits there are are the ones you set for yourself.
+## Sobre mi
+Desde el 2019 me dedique a aprender programación de manera autodidacta. Actualmente estudio Técnico de Programación Informática en el Colegio Puente Maipo.
+Además me interesa el desarrollo web y móvil, UI/UX y los desafíos de logica. He practicado con Figma, HackerRank y diversas plataformas online.
 
->[!IMPORTANT]
-> # Why I do program?
-> I program because it has always caught my attention, and I also thought it would be easy.
-
-[TikTok](https://www.tiktok.com/@kraundew?_t=8pSRzwGw1kj&_r=1)
+[Linkedin](www.linkedin.com/in/kraundew)
