@@ -51,7 +51,20 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kraundew/kraundew/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ###
 
@@ -61,16 +74,5 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kraundew/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@kraundew/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kraundew/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@kraundew/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kraundew/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@kraundew/2" alt="Medium post 3"  />
-  </a>
-</div>
 
 ###
