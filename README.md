@@ -3,7 +3,7 @@
 I am a junior developer and want to become a full-stack developer. I have currently mastered the basic tools. I learned to program thanks to COVID-19; during the lockdown, I learned JS and how to use NodeJS to create Discord bots, although I never uploaded the code to GitHub.
 ## For now, I use / have mastered...
 
-![Stack](https://skillicons.dev/icons?i=js,nodejs,discordjs,nest,github,git,cloudflare,react&perline=6)
+![Stack](https://skillicons.dev/icons?i=js,nodejs,discordjs,nest,github,git,cloudflare,nextjs,react&perline=6)
 
 And I try use more frameworks and lang, and
 ## My actually top languages
